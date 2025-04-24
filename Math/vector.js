@@ -1,4 +1,4 @@
-class Vector extends Array {
+export class Vector extends Array {
     constructor(...components) {
         super(...components);
     }
